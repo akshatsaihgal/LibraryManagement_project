@@ -1,4 +1,4 @@
-# SE_project - Akshat Saihgal, Pranav Uppal, Vaidehi Singh Rana
+# SE_project - Akshat Saihgal
 
 UML Diagrams - 
 https://online.visual-paradigm.com/community/share/lab4-1nhl3ah1bf
